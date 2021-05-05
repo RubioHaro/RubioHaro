@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RodrigoRubioHaro
+- 👀 I’m interested in Fintech
+- 🌱 I’m currently learning Azure
+- 💞️ I’m looking to collaborate on Fintech Startups
